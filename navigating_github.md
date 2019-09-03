@@ -8,5 +8,8 @@ https://github.com/STAT545-UBC
 
 Here is the RUL to my participation repo:
 
+https://github.com/Sihaoyu1220/STAT545-participation
 
 And its user account:
+
+https://github.com/Sihaoyu1220
