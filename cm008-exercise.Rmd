@@ -143,6 +143,12 @@ gapminder %>%
   geom_point() +
   geom_boxplot()
 ```
+```{r, fig.width = 5, fig.height = 2}
+gapminder %>% 
+  filter(continent == "Americas") %>% 
+  ggplot(aes(lifeExp, country)) + 
+  ggridges::geom_density_ridges() 
+```
 
 ## Exercise 6: Bar plot madness
 
