@@ -39,8 +39,8 @@ This is Sihaoyu's paticipation repository for STAT 545 at The University of Brit
 - Complete [`cm012-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm012/cm012-exercise.rmd) worksheet. 
 - Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm012/cm012-exercise.html) version.
 13. [Class Meeting 13 Effective Visualizations](https://stat545guidebook.netlify.com/effective-visualizations.html)
-- Complete [`cm013-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm013/cm013-exercise.rmd) worksheet.
-- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm013/cm013-exercise.html) version.
+- Complete [`cm013-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm013/cm013.rmd) worksheet.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm013/cm013.html) version.
 14. [Class Meeting 14 The Model-Fitting Paradigm in R](https://stat545guidebook.netlify.com/the-model-fitting-paradigm-in-r.html)
 - Complete [`cm014-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm014/cm014-exercise.Rmd) worksheet.
-- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm014/cm014-exercise.html) version.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm014/cm014-exercise.nb.html) version.
