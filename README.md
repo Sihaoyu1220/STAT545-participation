@@ -1,6 +1,6 @@
 # STAT 545A participation
 
-This is Sihaoyu's paticipation repository for STAT 545 at The University of British Columbia (2019-2020). The course website is linked [here](https://stat545.stat.ubc.ca/). The following are the instructions and a list of documents I have for each class: 
+This is Sihaoyu's paticipation repository for STAT 545 at The University of British Columbia (2019-2020). The course website is linked [here](https://stat545.stat.ubc.ca/). The link for each title will direct to the instructions for each class, including the learning objectives and in-class activities. The link for each document will direct to the document in this participation repository.
 
 1. [Class Meeting 1 Introduction to STAT 545 and GitHub](https://stat545guidebook.netlify.com/introduction-to-stat-545-and-github.html)
 - Register a GitHub account
