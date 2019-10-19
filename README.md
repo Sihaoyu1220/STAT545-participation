@@ -20,7 +20,7 @@ This is Sihaoyu's paticipation repository for STAT 545 at The University of Brit
 - Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm005/cm005-ggplot_intro.html) version.
 6. [Class Meeting 6 Intro to data wrangling, Part I](https://stat545guidebook.netlify.com/intro-to-data-wrangling-part-i.html)
 - Complete [`cm006-dplyr_exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm006/cm006_dplyr_exercise.Rmd) worksheet.
-- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm006/cm006_dplyr_exercise.html) version.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm006/cm006_dplyr_exercise) version.
 7. [Class Meeting 7 Intro to data wrangling, Part II](https://stat545guidebook.netlify.com/intro-to-data-wrangling-part-ii.html)
 - Complete [`cm007-exercise.Rmd worksheet`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm007/cm007-exercise.Rmd). 
 - Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm007/cm007-exercise.html) version.
