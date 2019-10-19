@@ -29,7 +29,7 @@ This is Sihaoyu's paticipation repository for STAT 545 at The University of Brit
 - Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm008/cm008-exercise.html) version.
 9. [Class Meeting 9 Tidy Data and Pivoting](https://stat545guidebook.netlify.com/tidy-data-and-pivoting.html)
 - Complete [`cm009-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm009/cm009-exercise.Rmd) worksheet. 
-- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm009/cm009-exercise.html) version.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm009/cm009-exercise.nb.html) version.
 10. [Class Meeting 10 Tibble Joins](https://stat545guidebook.netlify.com/tibble-joins.html)
 - Complete [`cm010-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm010/cm010-exercise.Rmd) worksheet.
 - Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm010/cm010-exercise.html) version.
