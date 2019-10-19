@@ -6,6 +6,7 @@ output:
 editor_options: 
   chunk_output_type: inline
 ---
+
 <!---The following chunk allows errors when knitting--->
 
 
@@ -130,7 +131,7 @@ select(gapminder, -lifeExp)
 ## # … with 1,694 more rows
 ```
 
-4. Put `continent` first. Hint: use the `everything()` function.
+4. Put `continent` first. Hint: use the `everything()` function..
 
 
 ```r

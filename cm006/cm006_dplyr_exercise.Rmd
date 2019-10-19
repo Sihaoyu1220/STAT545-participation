@@ -6,6 +6,7 @@ output:
 editor_options: 
   chunk_output_type: inline
 ---
+
 <!---The following chunk allows errors when knitting--->
 
 ```{r allow errors, echo = FALSE}
@@ -58,7 +59,7 @@ select(gapminder, country:lifeExp)
 select(gapminder, -lifeExp)
 ```
 
-4. Put `continent` first. Hint: use the `everything()` function.
+4. Put `continent` first. Hint: use the `everything()` function..
 
 ```{r}
 select(gapminder, continent, everything())
