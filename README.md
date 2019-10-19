@@ -20,24 +20,24 @@ This is Sihaoyu's paticipation repository for STAT 545 at The University of Brit
 - Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm005/cm005-ggplot_intro.html) version.
 6. [Class Meeting 6 Intro to data wrangling, Part I](https://stat545guidebook.netlify.com/intro-to-data-wrangling-part-i.html)
 - Complete [`cm006-dplyr_exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm006/cm006_dplyr_exercise.Rmd) worksheet.
-- Submit .Rmd file along with knitted [md](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm006/cm006_dplyr_exercise.md) version.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm006/cm006_dplyr_exercise.html) version.
 7. [Class Meeting 7 Intro to data wrangling, Part II](https://stat545guidebook.netlify.com/intro-to-data-wrangling-part-ii.html)
 - Complete [`cm007-exercise.Rmd worksheet`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm007/cm007-exercise.Rmd). 
-- Submit .Rmd file along with knitted [md](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm007/cm007-exercise.md) version.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm007/cm007-exercise.html) version.
 8. [Class Meeting 8 Intro to plotting with ggplot2, Part II](https://stat545guidebook.netlify.com/intro-to-plotting-with-ggplot2-part-ii.html)
 - Complete [`cm008-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm008/cm008-exercise.Rmd) worksheet.
-- Submit .Rmd file along with knitted [md](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm008/cm008-exercise.Rmd) version.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm008/cm008-exercise.html) version.
 9. [Class Meeting 9 Tidy Data and Pivoting](https://stat545guidebook.netlify.com/tidy-data-and-pivoting.html)
 - Complete [`cm009-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm009/cm009-exercise.Rmd) worksheet. 
-- Submit .Rmd file along with knitted [md](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm009/cm009-exercise.Rmd) version.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm009/cm009-exercise.html) version.
 10. [Class Meeting 10 Tibble Joins](https://stat545guidebook.netlify.com/tibble-joins.html)
 - Complete [`cm010-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm010/cm010-exercise.Rmd) worksheet.
-- Submit .Rmd file along with knitted [md](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm007/cm007-exercise.md) version.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm010/cm010-exercise.html) version.
 11. [Class Meeting 11 File input/output (I/O)](https://stat545guidebook.netlify.com/file-inputoutput-io.html)
 - There are a lot of .R script written in class. Direction to the [Class Meeting 11 folder](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm011)
 12. [Class Meeting 12 Working with factors in R](https://stat545guidebook.netlify.com/working-with-factors-in-r.html)
 - Complete [`cm012-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm012/cm012-exercise.Rmd) worksheet. 
-- Submit .Rmd file along with knitted [md](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm012/cm012-exercise.md) version.
+- Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm012/cm012-exercise.html) version.
 13. [Class Meeting 13 Effective Visualizations](https://stat545guidebook.netlify.com/effective-visualizations.html)
 - Complete [`cm013-exercise.Rmd`](https://github.com/Sihaoyu1220/STAT545-participation/blob/master/cm013/cm013-exercise.Rmd) worksheet.
 - Submit .Rmd file along with knitted [HTML](https://sihaoyu1220.github.io/STAT545-participation/cm013/cm013-exercise.html) version.
